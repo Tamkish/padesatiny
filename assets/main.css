@@ -1,0 +1,19 @@
+#map {
+     height: 700px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+#header{
+    background-color: #02884d;
+}
+
+#geocaching {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+}
+
+#body{
+    background-color: grey;
+}
